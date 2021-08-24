@@ -26,7 +26,7 @@ Módulo de pagamento da Gerencianet, com os métodos de pagamento de Boleto, PIX
 ### Instalar usando o Composer
 
 1. Instale via packagist 
-   - ```composer require gerencianet/magento2```
+   - ```composer require gerencianet/module-magento2```
    - Neste momento, podem ser solicitadas suas credenciais de autenticação do Magento. Caso tenha alguma dúvida, há uma descrição de como proceder neste [link da documentação oficial](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html).
 2. Execute os comandos:
    - ```bin/magento setup:upgrade```
